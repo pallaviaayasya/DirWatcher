@@ -1,0 +1,10 @@
+/Users/pallaviss/Projects/FileSystemWatcher-master/FileSystemWatcher/bin/Release/netstandard2.0/LightSlateGray.FileSystemWatcher.deps.json
+/Users/pallaviss/Projects/FileSystemWatcher-master/FileSystemWatcher/bin/Release/netstandard2.0/LightSlateGray.FileSystemWatcher.dll
+/Users/pallaviss/Projects/FileSystemWatcher-master/FileSystemWatcher/bin/Release/netstandard2.0/LightSlateGray.FileSystemWatcher.pdb
+/Users/pallaviss/Projects/FileSystemWatcher-master/FileSystemWatcher/obj/Release/netstandard2.0/FileSystemWatcher.csproj.AssemblyReference.cache
+/Users/pallaviss/Projects/FileSystemWatcher-master/FileSystemWatcher/obj/Release/netstandard2.0/FileSystemWatcher.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pallaviss/Projects/FileSystemWatcher-master/FileSystemWatcher/obj/Release/netstandard2.0/FileSystemWatcher.AssemblyInfoInputs.cache
+/Users/pallaviss/Projects/FileSystemWatcher-master/FileSystemWatcher/obj/Release/netstandard2.0/FileSystemWatcher.AssemblyInfo.cs
+/Users/pallaviss/Projects/FileSystemWatcher-master/FileSystemWatcher/obj/Release/netstandard2.0/FileSystemWatcher.csproj.CoreCompileInputs.cache
+/Users/pallaviss/Projects/FileSystemWatcher-master/FileSystemWatcher/obj/Release/netstandard2.0/LightSlateGray.FileSystemWatcher.dll
+/Users/pallaviss/Projects/FileSystemWatcher-master/FileSystemWatcher/obj/Release/netstandard2.0/LightSlateGray.FileSystemWatcher.pdb

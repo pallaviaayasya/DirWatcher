@@ -1,0 +1,5 @@
+/Users/pallaviss/Projects/FileSystemWatcher-master/FileSystemWatcher.Test/obj/Debug/netcoreapp2.0/FileSystemWatcher.Test.csproj.AssemblyReference.cache
+/Users/pallaviss/Projects/FileSystemWatcher-master/FileSystemWatcher.Test/obj/Debug/netcoreapp2.0/FileSystemWatcher.Test.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pallaviss/Projects/FileSystemWatcher-master/FileSystemWatcher.Test/obj/Debug/netcoreapp2.0/FileSystemWatcher.Test.AssemblyInfoInputs.cache
+/Users/pallaviss/Projects/FileSystemWatcher-master/FileSystemWatcher.Test/obj/Debug/netcoreapp2.0/FileSystemWatcher.Test.AssemblyInfo.cs
+/Users/pallaviss/Projects/FileSystemWatcher-master/FileSystemWatcher.Test/obj/Debug/netcoreapp2.0/FileSystemWatcher.Test.csproj.CoreCompileInputs.cache

@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = FileSystemWatcher.Test
+build_property.ProjectDir = /Users/pallaviss/Projects/FileSystemWatcher-master/FileSystemWatcher.Test/

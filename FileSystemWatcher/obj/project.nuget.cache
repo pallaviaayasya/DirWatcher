@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "6BYCzJPXcN9FsPrY5zfULVKvLv7Vkp6OQ+jmHC3nKj8vuElym/1LF+5L4hBd9ala2jaxSwIr82/fYj0jZjxMLA==",
+  "success": true,
+  "projectFilePath": "/Users/pallaviss/Projects/FileSystemWatcher-master/FileSystemWatcher/FileSystemWatcher.csproj",
+  "expectedPackageFiles": [
+    "/Users/pallaviss/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/pallaviss/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

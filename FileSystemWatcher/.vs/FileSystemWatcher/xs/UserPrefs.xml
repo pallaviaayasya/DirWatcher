@@ -1,0 +1,27 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Implementations/FileSystemWatcherImplementation.cs">
+    <Files>
+      <File FileName="Implementations/FileSystemWatcherImplementation.cs" Line="115" Column="86" />
+      <File FileName="Enumerations/FileSystemWatcherType.cs" Line="1" Column="1" />
+      <File FileName="Interfaces/IFileSystemWatcher.cs" Line="14" Column="30" />
+      <File FileName="Interfaces/IFileWatcherEventHandler.cs" Line="8" Column="73" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FileSystemWatcher" expanded="True">
+            <Node name="FileSystemWatcher" expanded="True">
+              <Node name="Interfaces" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+</Properties>
