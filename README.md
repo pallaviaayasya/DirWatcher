@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # FileSystemWatcher
 Simplification of the .NET FileSystemWatcher class
 
@@ -17,3 +18,7 @@ This project intends to simplify the usage of the [FileSystemWatcher](https://do
 
 ## License
 This project is licensed under the Apache License 2.0 - see the [LICENSE](./LICENSE) file for details.
+=======
+# DirWatcher
+Directory watcher tracks any changes done to specified directory and stores the result
+>>>>>>> a248e2da30c6d1fa2dcb327fff99bdd82f639842
